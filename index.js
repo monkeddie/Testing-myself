@@ -5,3 +5,7 @@ let c = a + b
 if (c > 5){
     console.log ("i am the best programmer in town")
 }
+else 
+{
+console.log ("i am a new programmer")
+}
